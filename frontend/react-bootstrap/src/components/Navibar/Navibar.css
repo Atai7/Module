@@ -1,0 +1,17 @@
+.auth-btn {
+    font-size: 1.25rem;
+    font-weight: 700;
+    color: #0000008C;
+    display: flex;
+    align-self: center;
+    text-decoration: none;
+}
+
+.auth-btn:hover {
+    color: black;
+}
+
+.title-name {
+    font-size: 18px;
+    text-align: center;
+}

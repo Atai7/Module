@@ -1,0 +1,30 @@
+.container {
+    width: 1400px;
+}
+
+.title-news {
+    font-size: 24px;
+    font-weight: bolder;
+}
+
+.news-part {
+    display: flex;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.btn__news {
+    border: none;
+    font-weight: 700;
+    color: rgba(0, 0, 0, .55);
+    display: inline-block;
+    padding: 12px 20px;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.btn__news:hover {
+    color: black;
+}

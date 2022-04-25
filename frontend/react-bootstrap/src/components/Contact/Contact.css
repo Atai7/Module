@@ -1,0 +1,81 @@
+.tel {
+    border-bottom: 1px solid;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    border-top: 1px solid;
+}
+
+.title-tel {
+    margin-top: 50px;
+    margin-left: 35px;
+}
+
+.full-info {
+    margin-bottom: 40px;
+    display: flex;
+    flex-direction: column;
+    margin-top: 10px;
+}
+
+.telephone {
+    display: flex;
+    align-items: center;
+}
+
+.insta {
+    color: black;
+    width: 40px;
+}
+
+.info-icon {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 50px;
+    margin-top: 10px;
+}
+
+.icon-text {
+    text-decoration: none;
+    color: black;
+    margin-left: 5px;
+}
+
+.instagram {
+    display: flex;
+}
+
+.social {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.social-part {
+    display: flex;
+    border-bottom: 1px solid;
+    font-weight: 600;
+}
+
+.instagram {
+    margin-bottom: 10px;
+}
+
+.facebook {
+    margin-bottom: 10px;
+}
+
+.telegram {
+    margin-bottom: 10px;
+}
+
+.icon {
+    margin-top: 39px;
+}
+
+.icon-tel {
+    margin-bottom: 62px;
+    margin-right: 10px;
+}
+
+.full-info {
+    font-weight: 600;
+}

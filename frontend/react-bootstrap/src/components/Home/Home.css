@@ -1,0 +1,58 @@
+.btn-transition {
+    color: #696969;
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 15px;
+    padding: 10px 20px;
+    background-color: white;
+    border: 1px solid #696969;
+    display: inline-block;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+
+.btn-transition:hover {
+    color: black;
+}
+
+.container-btn {
+    display: flex;
+    justify-content: center;
+    margin: 50px 0px;
+}
+
+.footer-part-input-btn {
+    display: flex;
+    justify-content: center;
+    margin: 60px 0px;
+}
+
+.all-news {
+    color: #696969;
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 15px;
+    padding: 10px 20px;
+    background-color: white;
+    border: 1px solid #696969;
+    display: inline-block;
+    border-radius: 12px;
+}
+
+.all-news:hover {
+    color: black;
+}
+
+.fpart {
+    padding: 4px 16px;
+    font-size: 16px;
+    border-left: none;
+}
+
+.email-input {
+    width: 350px;
+    border-right: none;
+    border: 1px solid #696969;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
